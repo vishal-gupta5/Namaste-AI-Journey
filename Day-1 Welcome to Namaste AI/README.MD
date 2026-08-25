@@ -41,3 +41,5 @@
 - figure out
 - Social Media
 - Help others thorugh community
+
+## Be Curious
