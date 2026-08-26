@@ -15,7 +15,7 @@
 ## Pre - Requisitics
 - JavaScript/Python
 - Basic Node.js
-- CRUD & APIs
+- CRUD & APIs 
 - Basic GIT
 - React.js
 - Express.js
