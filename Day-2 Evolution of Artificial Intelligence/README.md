@@ -13,7 +13,7 @@
 - Is it "Artifical Intelligence"?
     - Yes
 
-## Evolution of AI
+## 2. Evolution of AI
 - 1950  --> Can Machines think? Asked
     - Alan Turing (Mathematics) Design "The Turing Test"
     - Note --> Before 1950 Machines were very good at doing calculation or doing mathematical opeations
@@ -31,4 +31,14 @@
     - There were two thoughts.
         - Artificial Intelligence: Observe what humans do and perform it like a human.
         - Synthetic Intelligence: It means that machines become intelligent by themselves.
+- 1997 --> IBM(Intelligence Business Machine) developed "Deep Blue".
+    - Deep Blue was a system that can play chess.
+    - That were first time that Machine can play chess.
+    - Deep Blue defeated "Garry Kashparov" in 1997. What was a huge achievement.
+    - That were some News and Articles published.
+        - Question: Have Machines become smarter than Humans?
+    - That were first time where machine machine can defeated humans.
+    - Chess was considered as a game of Intelligence peoples.
+    
+
 
