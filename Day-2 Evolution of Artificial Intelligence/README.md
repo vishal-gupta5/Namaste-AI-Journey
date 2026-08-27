@@ -10,6 +10,5 @@
     - Drive a car
     - Write poems
     - Selfie with Tom Cruise.
-
 - Is it "Artifical Intelligence"?
     - Yes
