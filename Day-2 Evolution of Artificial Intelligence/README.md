@@ -53,3 +53,23 @@
 - These rules were actually defined actual Human Experts.
 - This mechanism is knwon as "Expert System".
 - Expert systems were build by human experts a lot of rules.
+
+## 4. Machine Learning.
+- Rules ❌ Examples ✅
+    - The philosophy of Machine Leaning was. We won't care about rules. we will train, make or learn machine through examples.
+    - we won't give rules. we give it examples.
+
+    - Cat vs Dogs
+        - Train using 1 Million labbled pictures.
+
+- Spam Detection
+    - F-R-E-E, FREEE, FREEE!!!
+
+- Model Leaners
+- Training Data
+- Predictions
+- Learn Patterns --> It starts to learn patterns.
+
+#### Node: Machine learning requires Human Intelligence.
+
+
