@@ -39,6 +39,17 @@
         - Question: Have Machines become smarter than Humans?
     - That were first time where machine machine can defeated humans.
     - Chess was considered as a game of Intelligence peoples.
-    
 
+## 3. Rule Based AI. (1950 - 1980s)
+- Rule-based AI is a type of artificial intelligence that makes decisions using predefined IF–THEN rules created by humans.
 
+    - Examples: Spam Detector
+        - What's a spam email or not?
+        - Algorithm used to checked email is consist of words.
+            - "Free", "$$$", "Lottery"
+        - Medicial:
+            - if (fever && cold && Body_Ache) 
+                - flue
+- These rules were actually defined actual Human Experts.
+- This mechanism is knwon as "Expert System".
+- Expert systems were build by human experts a lot of rules.
