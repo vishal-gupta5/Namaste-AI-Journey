@@ -91,3 +91,16 @@
     - Speech Recognization
     - Translation
     - GPU Revolution + Internet + Large Dataset
+
+## MACHINE LEARNING (ML) vs. DEEP LEARNING (DL)
+
+| Machine Learning (ML) | Deep Learning (DL) |
+|---|---|
+| **Definition:** A subset of AI that uses algorithms to analyze data, learn from it, and make decisions/predictions. | **Definition:** A specialized subset of ML based on artificial neural networks (ANNs) inspired by the human brain. |
+| Requires smaller datasets | Requires vast datasets (Big Data) |
+| Faster training | Computationally intensive (GPUs) |
+| Structured Data | Unstructured Data (Images, Text, Audio) |
+| Feature Engineering (manual) | Automated Feature Learning |
+| Feature Extraction → ML Algorithm | Neural Network (Feature Learning + Classification) |
+| Spam Detection | Image Recognition |
+| Housing Price Prediction | Natural Language Processing (NLP) |
