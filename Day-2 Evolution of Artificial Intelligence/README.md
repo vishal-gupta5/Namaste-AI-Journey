@@ -12,7 +12,7 @@
   - Write poems
   - Selfie with Tom Cruise.
 - Is it "Artifical Intelligence"?
-  - Yes
+  - Yes 
 
 ## 2. Evolution of AI
 
