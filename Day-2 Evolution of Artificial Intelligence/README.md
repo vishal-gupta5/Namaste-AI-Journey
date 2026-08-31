@@ -11,7 +11,7 @@
   - Drive a car
   - Write poems
   - Selfie with Tom Cruise.
-- Is it "Artifical Intelligence"?
+- Is it "Artifical Intelligence"? 
   - Yes 
 
 ## 2. Evolution of AI
