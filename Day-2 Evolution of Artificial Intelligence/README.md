@@ -9,7 +9,7 @@
   - Detect Spam
   - Recommend movies
   - Drive a car
-  - Write poems
+  - Write poems 
   - Selfie with Tom Cruise.
 - Is it "Artifical Intelligence"? 
   - Yes 
