@@ -6,7 +6,7 @@
 - Top 10 Companies by market cap in the world.
 - Suppose a machine can:
   - Play Chess
-  - Detect Spam
+  - Detect Spam 
   - Recommend movies
   - Drive a car
   - Write poems 
