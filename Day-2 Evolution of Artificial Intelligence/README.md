@@ -14,7 +14,7 @@
 - Is it "Artifical Intelligence"? 
   - Yes 
 
-## 2. Evolution of AI
+## 2. Evolution of AI 
 
 - 1950 --> Can Machines think? Asked
   - Alan Turing (Mathematics) Design "The Turing Test"
