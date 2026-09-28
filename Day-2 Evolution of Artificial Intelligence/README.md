@@ -8,7 +8,7 @@
   - Play Chess
   - Detect Spam 
   - Recommend movies
-  - Drive a car 
+  - Drive a car  
   - Write poems  
   - Selfie with Tom Cruise.
 - Is it "Artifical Intelligence"?  
