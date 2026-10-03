@@ -8,7 +8,7 @@
 - Tools
 - RAG (Retrieval-Augmented Generation) 
 - AI Agents
-- MCP (Model Context Protocol)
+- MCP (Model Context Protocol) 
 - AI Engineering
 - Projects
 
