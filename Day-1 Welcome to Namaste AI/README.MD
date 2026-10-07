@@ -1,7 +1,7 @@
 # Welcome to Namaste AI
 
 ## Roadmap
-- Introduction
+- Introduction 
 - LLMs
 - Prompt Engineering
 - AI for SDEs
