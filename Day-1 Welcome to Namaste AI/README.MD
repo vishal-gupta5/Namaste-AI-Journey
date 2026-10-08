@@ -4,7 +4,7 @@
 - Introduction 
 - LLMs
 - Prompt Engineering
-- AI for SDEs
+- AI for SDEs 
 - Tools
 - RAG (Retrieval-Augmented Generation) 
 - AI Agents
